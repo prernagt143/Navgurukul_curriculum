@@ -1,0 +1,13 @@
+.back{
+    height: auto;
+    width: 100%;
+    background-size: cover;
+    background-image: linear-gradient( to right,  #EA8D8D, #A890FE);
+}
+.responsive{
+    width: 50%;
+    height: auto;
+}
+.image{
+    margin-left: 100px;
+}

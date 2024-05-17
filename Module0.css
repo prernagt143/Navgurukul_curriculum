@@ -1,0 +1,17 @@
+.bg-container{
+    background-color: #cea2fd7e;
+    border: solid;
+    border-radius: 10px;
+    border-width: 1px;
+    border-color: black;
+}
+.text{
+    color: rgb(0, 0, 255);
+    font-size: 20px;
+}
+.back{
+    height: auto;
+    width: 100%;
+    background-size: cover;
+    /* background-image: linear-gradient( to right,  #4ECDC4, #4ECDC4) */
+}

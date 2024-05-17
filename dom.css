@@ -1,0 +1,9 @@
+.student{
+    background-color: rgb(189, 150, 225);
+    background-size:cover ;
+    height:auto ;
+    width:100% ;
+}
+.margin{
+    margin: left 30px;
+}

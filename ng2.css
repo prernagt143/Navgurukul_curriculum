@@ -1,0 +1,44 @@
+.op{
+    display: flex;
+}
+.system{
+    display: flex;
+    flex-direction: column;
+}
+.I{
+    background-color: antiquewhite;
+}
+.P{
+    background-color: rgb(228, 210, 189);
+}
+.W{
+    background-color: rgb(171, 242, 242);
+}
+.X{
+    background-color: rgb(190, 244, 218);
+}
+
+.bimage{
+    background-image:linear-gradient(to right, #87CEEB, #ffffff);
+    
+}
+.resp1{
+    background-image:linear-gradient(to right, #87CEEB, #ffffff);
+    
+}
+.resp2{
+    background-image:linear-gradient(to right, #87CEEB, #ffffff);
+}
+.resp3{
+    background-image: linear-gradient(to right,#87CEEB,#ffffff);
+}
+.bg{
+    background-color: blue;
+}
+.n1{
+    background-image:linear-gradient(to right, #87CEEB, #ffffff);
+
+}
+.n2{
+    background-image:linear-gradient(to right, #87CEEB, #ffffff);
+}

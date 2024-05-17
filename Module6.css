@@ -1,0 +1,47 @@
+
+.twodiv{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+    
+}
+.button{
+    text-align: center;
+    margin-top: 20%;
+    font-size: 30px;
+}
+.b-g{
+    background-image: linear-gradient(to right, rgba(0, 0, 255, 0.539), white);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.button:hover{
+    color: blue;
+}
+.modb-head{
+    /* border: 1px solid; */
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.mod6b{
+    border: 3px solid;
+    display: flex;
+    flex-direction: column;
+    /* align-items: center; */
+    justify-content: center;
+    width: 800px;
+    justify-content: center;
+    padding-left: 50px;
+}
+.mod6bb{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    background-image: linear-gradient(to right, rgba(0, 0, 255, 0.539), white);
+  
+    
+}

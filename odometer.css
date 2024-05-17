@@ -1,0 +1,23 @@
+.odometer{
+    width: 40%;
+    border: solid; 
+    border-radius: 20px;
+    border-color: gray;
+    border-width: 1px;
+}
+.back{
+    height: auto;
+    width: 100%;
+    background-size: cover;
+    background-color: rgba(135, 207, 235, 0.233);
+}
+.twodiv{
+  display: flex;
+  justify-content: space-around;
+}
+.vid{
+    display: flex;
+    justify-content: space-around;
+        
+       
+}

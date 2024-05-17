@@ -1,0 +1,18 @@
+.back{
+    height: auto;
+    width: 100%;
+    background-size: cover;
+    background-image: linear-gradient( to right,  #EA8D8D, #A890FE);
+}
+.responsive{
+    width: 30%;
+    height: 70vh;
+}
+.border{
+  border: solid;
+  border-radius: 5px;
+  border-color: gray;
+}
+img{
+    padding-left: 200px;
+}
